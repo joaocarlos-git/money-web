@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./pages/home/home.jsx";
 import CadDespesa from "./pages/cad-despesa/cad-despesa.jsx";
 import "./styles/global.css";
-//import React from 'react';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(  
